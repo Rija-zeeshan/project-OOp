@@ -1,6 +1,6 @@
 {
-  "name": "rz91-project-oop",
-  "version": "1.0.0",
+  "name": "rija-zeeshan91-project-oop",
+  "version": "2.0.4",
   "description": "This is my oop console application project",
   "main": "index.js",
   "type": "module",
